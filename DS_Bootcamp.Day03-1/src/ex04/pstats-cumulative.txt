@@ -1,0 +1,13 @@
+         406604 function calls (403034 primitive calls) in 0.884 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1454 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.884    0.884 profile:0(parsing(sys.argv[1], sys.argv[2]))
+    191/1    0.005    0.000    0.884    0.884 :0(exec)
+    108/1    0.000    0.000    0.884    0.884 <string>:1(<module>)
+        1    0.000    0.000    0.884    0.884 /home/shep_nst/school21/DS_Bootcamp.Day03-1/src/ex04/financial_enhanced.py:7(parsing)
+        1    0.000    0.000    0.555    0.555 /home/shep_nst/school21/DS_Bootcamp.Day03-1/src/ex00/eldissda/lib/python3.10/site-packages/bs4/__init__.py:122(__init__)
+
+

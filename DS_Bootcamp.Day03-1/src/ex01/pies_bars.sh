@@ -1,0 +1,1 @@
+termgraph ex01.dat --color {green,cyan}
