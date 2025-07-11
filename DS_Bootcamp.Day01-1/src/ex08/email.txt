@@ -1,0 +1,4 @@
+ivan.petrov@corp.com
+petr.ivanov@corp.com
+ryan.gosling@corp.com
+eldiss.daniel@corp.com
