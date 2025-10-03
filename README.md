@@ -14,4 +14,5 @@ Structure:<br>
 10. **ML_project1**:<br> To predict a price that is based on some features(regression task). Preproccessing -> Statistical Data Analysis -> Features Engeneering ->Training of models(Scikit-learn – ML-algorithms) -> metrics(MAE, RMSE) <br>
 11. **ML_project2** <br> supervised learning, particularly linear models, regularization techniques, overfitting, underfitting, and metrics for quality estimation<br>
 Линейную регрессия, регуляризация, нормализация, проблемы переобучения и недообучения, метрики
-
+12. **ML_project3** <br>
+Validation(train/validation/test), cross-validation и её типам (K-Fold, Grouped, Stratified, Time Series), overfitting, Hyperparameter optimization( Grid Search, Random Search, Bayesian optimization (Optuna)), Feature selection: Lasso, permutation importance, SHAP
