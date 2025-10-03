@@ -11,5 +11,7 @@ Structure:<br>
 7. **DS_Bootcamp.Day06.ID_886518-1**:<br> SQLite-sqlite3(connection, queries, subqueries, join, aggregation, filtration), read_sql/to_sql, A/B tests
 8. **DS_Bootcamp.Day07.ID_886520-1**:<br> visualization: Matplotlib, Seaborn, pandas.plotting
 9. **DS_Bootcamp.Day08.ID_886521-1**:<br> Preprocessing, Scikit-learn: Classification(LogisticRegression, SVM, DecisionTree, RandomForest), Regression(LinearRegression, Ridge), Clustering(KMeans, DBSCAN), metrics(accuracy_score, mean_squared_error, silhouette_score), visualization(Decision tree, decisions boundary, Dendrogram), One-hot encoding, Crossvalidation
-10. **ML_project1**:<br> To predict a price that is based on some features(regression task). Preproccessing -> Statistical Data Analysis -> Features Engeneering ->Training of models(Scikit-learn – ML-algorithms) -> metrics(MAE, RMSE) 
+10. **ML_project1**:<br> To predict a price that is based on some features(regression task). Preproccessing -> Statistical Data Analysis -> Features Engeneering ->Training of models(Scikit-learn – ML-algorithms) -> metrics(MAE, RMSE) <br>
+11. **ML_project2** <br> supervised learning, particularly linear models, regularization techniques, overfitting, underfitting, and metrics for quality estimation<br>
+Линейную регрессия, регуляризация, нормализация, проблемы переобучения и недообучения, метрики
 
