@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO, filename='analytics.log',
                     format="%(asctime)s  %(message)s")
 logger = logging.getLogger('logger')
 logger.setLevel(logging.INFO)
-TELEGRAM_TOKEN = '8038878948:AAG6UNav9aHjOOOKtejjJf7C3-RrWV0CYR8'
+TELEGRAM_TOKEN = 'pass'
 CHAT_ID = 1241979752
 bot = Bot(token=TELEGRAM_TOKEN)
 
